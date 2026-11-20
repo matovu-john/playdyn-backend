@@ -1,0 +1,12 @@
+{
+  "name": "playdyn-backend",
+  "version": "1.0.0",
+  "description": "Playdyn backend server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.21.0"
+  }
+}
